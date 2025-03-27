@@ -1,0 +1,11 @@
+body{
+    background-image:url(nightsky.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
+}
+.p{
+    color: white;
+}
